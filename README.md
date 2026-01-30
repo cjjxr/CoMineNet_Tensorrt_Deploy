@@ -1,7 +1,11 @@
 # CoMineNet C++ Deployment (CoMineNet_Deploy)
 
 这是一个基于 C++、CUDA 和 TensorRT 的高性能部署项目，集成了 **CoMineNet** 目标检测、可行驶区域分割模型和 **DepthAnything** 深度估计模型。项目旨在 Jetson 等边缘计算设备或高性能 GPU 服务器上实现实时的目标检测与距离测量。
-![Demo](assets/demo.mp4)
+
+
+https://github.com/user-attachments/assets/82ac6df9-ba90-4ec7-969f-c930a0e3d88c
+
+
 
 ## 📁 目录结构
 
