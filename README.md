@@ -73,13 +73,9 @@ common:
 
 rmt_ppad:
   model_path: "./models/CoMineNet.engine" # 目标检测 TensorRT 引擎路径
-  input_width: 640
-  input_height: 640
 
 depth_anything:
   model_path: "./models/depth_anything.engine" # 深度估计 TensorRT 引擎路径
-  input_width: 518
-  input_height: 518
 ```
 
 ## 🏃 运行说明
@@ -93,7 +89,7 @@ depth_anything:
 3.  **执行程序**
     在 `build` 目录下运行：
     ```bash
-    ./rmt_deploy
+    ./CoMineNet
     ```
     程序将自动读取 `../config/config.yaml`（或 `./config.yaml`）并开始处理。
 
