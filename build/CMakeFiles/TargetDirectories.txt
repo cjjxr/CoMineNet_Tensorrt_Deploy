@@ -1,0 +1,3 @@
+/workspace/cjr/CoMineNet_TenSorrt_Deploy/build/CMakeFiles/CoMineNet.dir
+/workspace/cjr/CoMineNet_TenSorrt_Deploy/build/CMakeFiles/edit_cache.dir
+/workspace/cjr/CoMineNet_TenSorrt_Deploy/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+common:
+  # input_dir: "../source/video/MineData.mp4"
+  input_dir: "../source/images"
+  output_dir: "../result"
+
+CoMineNet:
+  model_path: "../models/best_640_480.engine"
+
+depth_anything:
+  model_path: "../models/DA3METRIC-LARGE.engine"
+
